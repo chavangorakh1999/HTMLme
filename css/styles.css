@@ -1,7 +1,7 @@
-body{
-  background-color: #EAF6F6;
+body {
+  background-color: #eaf6f6;
 }
-hr{
+hr {
   /* background-color: white; */
   border-style: dotted none none;
   border-width: 5px;
@@ -9,15 +9,13 @@ hr{
 
   width: 5%;
 }
-h1{
+h1 {
   color: #66bfbf;
-
 }
-h3{
+h3 {
   color: #66bfbf;
-
 }
-.myName:hover{
+.myName:hover {
   font-size: 40px;
   color: orange;
 }
